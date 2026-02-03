@@ -1,8 +1,8 @@
 ## Hello World, eu sou Julio Henrique 👋
 
-# Desenvolvedor em formação, focado em Python
-# Estudante de Análise e Desenvolvimento de Sistemas
-# Aprendendo através de projetos práticos
+- Desenvolvedor em formação, focado em Python
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Aprendendo através de projetos práticos
 
 ## Atualmente estou focado em:
   - Python("Lógica", "Automação", "Back-End")
