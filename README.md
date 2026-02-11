@@ -14,7 +14,8 @@
   - Python
   - Git and GitHub
   - Lógica de Programação
-  - SQL("Básico")
+  - SQL
+  - FastAPi
 
 ## Contato:
   - {"LinkedIn": "www.linkedin.com/in/julio-henrique-rocha-borges-1625612b3",
