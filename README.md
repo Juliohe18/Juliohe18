@@ -14,8 +14,9 @@
   - Python
   - Git and GitHub
   - Lógica de Programação
-  - SQL
+  - SQL, PostegreSQL
   - FastAPi
+  - Docker
 
 ## Contato:
   - {"LinkedIn": "www.linkedin.com/in/julio-henrique-rocha-borges-1625612b3",
